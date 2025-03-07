@@ -1,2 +1,3 @@
-# consumption-detective
+# 소비탐정
+# 그것이 알고싶다 - 지출의 행방
 가계부 어플
